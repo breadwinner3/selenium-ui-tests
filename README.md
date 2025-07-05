@@ -42,10 +42,9 @@ FirstAutomationProject/
    ```bash
    dotnet restore
    dotnet build
-
    dotnet test
 
-   Goals
+  ## Goals   
 This project is part of my learning journey to master UX test automation. Future goals include:
 
 Writing end-to-end tests across multiple pages
@@ -54,5 +53,6 @@ Integrating test results and reports
 
 Running tests on BrowserStack or other cloud environments
 
-🤝 Connect With Me
+## 🤝 Connect With Me
+
 I'm currently growing my skills as a QA Engineer with a focus on automation. Feel free to connect with me on LinkedIn if you're hiring, collaborating, or just want to say hello!
